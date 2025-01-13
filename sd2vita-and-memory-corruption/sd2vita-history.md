@@ -58,7 +58,7 @@ But as you can see, it wasn't as simple as installing a plugin, the process of l
 
 ## The first version
 
-The work was done, gamesd.skprx was released and the race had begun ! Xyz published the blueprint of the SD2Vita so anyone with PCB, soldering tools could create their own SD2Vita ! The first one to propose his adapter was moredrugsmore3somes_,_ followed by srident_._ The commercial SD2Vita name wasn't actually coming from XYZ, but by moredrugsmore3somes and srident who came up with the name when they tried to sell their version. Internally the name was just Gamecard adapter or GC EMU.&#x20;
+The work was done, gamesd.skprx was released and the race had begun ! Xyz published the blueprint of the SD2Vita so anyone with PCB, soldering tools could create their own SD2Vita ! The first one to propose his adapter was moredrugsmore3some&#x73;_,_ followed by sriden&#x74;_._ The commercial SD2Vita name wasn't actually coming from XYZ, but by moredrugsmore3somes and srident who came up with the name when they tried to sell their version. Internally the name was just Gamecard adapter or GC EMU.&#x20;
 
 But before the SD2Vita was actually on the market it had undergone some changes.&#x20;
 
@@ -227,7 +227,9 @@ So it ended up being a total failure (only japanese people really bought that ad
 
 ![The design was made to match 1:1 a real vita cartridge](<../.gitbook/assets/image (27).png>)
 
-![The SD2Vita V6 has a separate part to handle the MicroSD as seen with the shadow](<../.gitbook/assets/image (37) (1).png>)
+![The SD2Vita V6](<../.gitbook/assets/image (37) (1).png>)
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>More premium inside, more reliable (pic by @Null)</p></figcaption></figure>
 
 ![VS the inside of a SD2Vita V5](<../.gitbook/assets/image (41) (1).png>)
 

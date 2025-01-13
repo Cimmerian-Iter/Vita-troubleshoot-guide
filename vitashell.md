@@ -40,7 +40,7 @@ So that's it for the partition you can see, if you press triangle, you can have 
 * Mount  xmc0: used to mount the memorycard if it's not mounted elsewhere and unused. Kind of like imc0 for the internal memory.
 * Unmount uma0:, xmc0: imc0: you unmount the selected partition
 * Mount USB/Gamecard as ux0: Allows to mount a USB drive or an SD2Vita as ux0 on the fly without a reboot. This will not refresh the Live Area so if the bubble of your application installed on the SD2Vita isn't available on the LiveArea before you mount the device, it will not appear like you would if you used a standard SD2Vita plugin and reboot.\
-  **NOTE :** You must mount the USB as uma0: first before you can use this option ****&#x20;
+  **NOTE :** You must mount the USB as uma0: first before you can use this option&#x20;
 * Refresh LiveArea : Wil scans the content of ux0:app and will add to the database a new application that is not present already in the app.db, the game needs to have a valid license to be recognized and added.
 * Refresh license database: Will refresh the license database if you add a license file
 
@@ -172,11 +172,11 @@ Select the file you want to send, then use the Send option. On the second PSVita
 
 USB transfer can sometimes introduce corruption, if you have that error, then try using FTP instead to transfer the vpk you wanted to install. Beware that USB mode can lead to serious corruption issues although it's not happening a lot
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>my memory nooo it's broken</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (2).png" alt=""><figcaption><p>my memory nooo it's broken</p></figcaption></figure>
 
 ### C2-12828-1 When opening Vitashell
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 There is no fix for this error. If it isn't because your hack setup is wrong, then it's a hardware problem. We are unsure what causes these issues but the only way to fix this is to change the motherboard.
 
